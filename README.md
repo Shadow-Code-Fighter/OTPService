@@ -52,4 +52,4 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 
 <pre><code>http://localhost:8080/api/verify-otp-for-login?email=youremail@gmail.com&otp=296607</code></pre>
 
-# Thanks for visiting
+#### Thanks for visiting
