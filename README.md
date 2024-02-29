@@ -15,7 +15,7 @@ Twilio </a> link. </p>
 
 <p> In the Twilio Console, verify the email address you'll be using to send emails. This is to ensure compliance with email regulations and to avoid messages being flagged as spam.</p>
 
-<p>This is a Properties File:</p>
+#### <p>This is a Properties File:</p>
 
 <pre><code>
 # Database Configuration
